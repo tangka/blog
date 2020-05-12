@@ -193,6 +193,6 @@ export const nextTick = (function () {
 
 
 
-microTask: nextTick, Promise, 
+microTask: nextTick, Promise, 微服务
 
-macroTask: setTimeout, setInterval
+macroTask: setTimeout, setInterval 宏服务
